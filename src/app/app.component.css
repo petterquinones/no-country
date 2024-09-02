@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-header {
+  width: 1300px;
+  height: 200px;
+  background-color: #333;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  margin: 20px auto 0 auto;;
+}
+
+.body-card {
+  width: 1300px;
+  background-color: rgb(255, 235, 163, 0.3);
+  color:#333;
+  padding: 20px;
+  margin: 20px auto 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
